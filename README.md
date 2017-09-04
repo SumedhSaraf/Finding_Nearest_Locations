@@ -28,10 +28,10 @@ docker tag image1 sumedh11/assign1adssummer:latest
 -Push your image o docker hub
 docker push sumedh11/assign1adssummer:latest
  
-# The rawDataEDA file shows the insights we can infer from the Zillow dataset that we are given and 
+### The rawDataEDA file shows the insights we can infer from the Zillow dataset that we are given and 
 link is mentioned at the start of README.
 
-# The file REST_API.ipynb has the code for creating an API.
+### The file REST_API.ipynb has the code for creating an API.
 
 -It also contains the method for pulling out 10 nearest locations based on the longitude and latitude entered by the user and 
 the m is integrated to the Google Bigquery platform.

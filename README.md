@@ -28,8 +28,7 @@ docker tag image1 sumedh11/assign1adssummer:latest
 -Push your image o docker hub
 docker push sumedh11/assign1adssummer:latest
  
-### The rawDataEDA file shows the insights we can infer from the Zillow dataset that we are given and 
-link is mentioned at the start of README.
+### The rawDataEDA file shows the insights we can infer from the Zillow dataset whose link is given at the start of README 
 
 ### The file REST_API.ipynb has the code for creating an API.
 
